@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+
+# Jupyter/Colab
+.ipynb_checkpoints
+*.json
+
+# Data files
+/data/
+*.csv
+*.xlsx
+
+# System
+.DS_Store
+Thumbs.db
